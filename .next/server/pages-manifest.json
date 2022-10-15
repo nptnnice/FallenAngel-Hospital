@@ -1,0 +1,16 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/dashboard": "pages/dashboard.js",
+  "/api/getDashboardStat": "pages/api/getDashboardStat.js",
+  "/api/login": "pages/api/login.js",
+  "/doctor": "pages/doctor.js",
+  "/api/getDepartment": "pages/api/getDepartment.js",
+  "/api/getAppointment": "pages/api/getAppointment.js",
+  "/api/getDoctor": "pages/api/getDoctor.js",
+  "/patient/[patientID]": "pages/patient/[patientID].js",
+  "/api/getPatient/[patientID]": "pages/api/getPatient/[patientID].js",
+  "/api/getPatient": "pages/api/getPatient.js",
+  "/api/getAvailableRoom": "pages/api/getAvailableRoom.js"
+}
